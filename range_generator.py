@@ -1,8 +1,9 @@
 
 
-
-
-
+""""
+Module prints numbers using generators when 
+number, start and stop are assigned
+"""""
 
 
 def xrange(n): #n = 5
